@@ -1,4 +1,4 @@
-# wp-embed-svg-shortcode
+# WP Embed SVG shortcode
 A shortcode to embed SVG images into WordPress posts. I'm not a pro WP developer, so use at your own risk.
 
 ## Why do I need this?
