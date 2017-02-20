@@ -1,4 +1,6 @@
 # WP Embed SVG shortcode
+** UPDATE: ** This may have broken in WP 4.7.1. Use at your own risk!
+
 A shortcode to embed SVG images into WordPress posts. I'm not a pro WP developer, so use at your own risk.
 
 ## Why do I need this?
